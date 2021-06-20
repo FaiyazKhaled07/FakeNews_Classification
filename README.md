@@ -1,0 +1,2 @@
+# FakeNews_Classification
+Fake news is a type of propaganda where disinformation is intentionally spread through news outlets and/or social media outlets. Here I developed a machine learning program to identify where an article is fake news or true news. In my code I have used Passive Aggressive Classifier and SGD classifier both the techniques with bag of words model and tf-idf scoring. The dataset is also given and it is taken from kaggle.
